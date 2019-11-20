@@ -1,0 +1,10 @@
+{
+    "scenarios": [
+      {
+        "title": "Siddhi Editor",
+        "description": "Trying out Siddhi Editor",
+        "id": "siddhi-editor"
+      }
+    ]
+  }
+  
