@@ -1,0 +1,24 @@
+{
+  "title": "Siddhi Editor",
+  "description": "Try out Siddhi Editor",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
