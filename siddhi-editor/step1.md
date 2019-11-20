@@ -5,7 +5,7 @@
 
 ## Access the Editor
 
-https://[[HOST_SUBDOMAIN]]-9390-[[KATACODA_HOST]].environments.katacoda.com/editor
+http://[[HOST_SUBDOMAIN]]-9390-[[KATACODA_HOST]].environments.katacoda.com/editor
 
 ## Learn More
 
