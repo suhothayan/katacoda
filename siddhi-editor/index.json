@@ -11,15 +11,25 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh",
+//      "code": "foreground.sh",
+      "credits": ""
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "hideintro": true,
-    "uilayout": "terminal"
+    "hideintro": false,
+    "uilayout": "terminal",
+    "showdashboard": true,
+    "dashboards": [
+      {
+        "name": "Siddhi Editor",
+        "href": "http://[[HOST_SUBDOMAIN]]-9390-[[KATACODA_HOST]].environments.katacoda.com/editor"
+      }
+    ]
   },
   "backend": {
     "imageid": "ubuntu"
