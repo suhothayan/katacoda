@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Siddhi Editor Playground",
         "text": "step1.md"
       }
     ],
@@ -30,9 +30,12 @@
         "href": "http://[[HOST_SUBDOMAIN]]-9390-[[KATACODA_HOST]].environments.katacoda.com/editor"
       }
     ],
-    "environment": {
-      "terminals": [{"name": "Terminal 2", "target": "host01"}]
-    }
+    "terminals": [
+      {
+        "name": "Extra Terminal",
+        "target": "host01"
+      }
+    ]
   },
   "backend": {
     "imageid": "ubuntu"
