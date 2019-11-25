@@ -21,6 +21,7 @@
   },
   "environment": {
     "hideintro": true,
+    "hidefinish": true,
     "uilayout": "terminal",
     "showdashboard": true,
     "dashboards": [
@@ -28,7 +29,10 @@
         "name": "Siddhi Editor",
         "href": "http://[[HOST_SUBDOMAIN]]-9390-[[KATACODA_HOST]].environments.katacoda.com/editor"
       }
-    ]
+    ],
+    "environment": {
+      "terminals": [{"name": "Terminal 2", "target": "host01"}]
+    }
   },
   "backend": {
     "imageid": "ubuntu"
