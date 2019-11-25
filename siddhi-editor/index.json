@@ -20,7 +20,7 @@
     }
   },
   "environment": {
-    "hideintro": false,
+    "hideintro": true,
     "uilayout": "terminal",
     "showdashboard": true,
     "dashboards": [
