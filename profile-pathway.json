@@ -4,6 +4,32 @@
         "title": "Siddhi Editor Playground",
         "description": "Trying out Siddhi Editor",
         "id": "siddhi-editor"
+      },
+      {
+        "title": "Siddhi Deployment Tutorials",
+        "description": "This course contains series of tutorials about deploying Siddhi on Kubernetes",
+        "courses": [
+          {
+            "course_id": "stateless-deployment",
+            "title": "Stateless Siddhi App",
+            "description": "Deploy a stateless Siddhi Application on Kubernetes."
+          },
+          {
+            "course_id": "stateful-deployment",
+            "title": "Stateful Siddhi App",
+            "description": "Deploy a stateful Siddhi Application on Kubernetes."
+          },
+          {
+            "course_id": "distributed-stateful-deployment",
+            "title": "Distributed stateful Siddhi App",
+            "description": "Deploy a stateful Siddhi Application in distributed mode on Kubernetes with automatic configuration of NATS."
+          },
+          {
+            "course_id": "distributed-stateful-nats-deployment",
+            "title": "Distributed stateful Siddhi App with existing NATS",
+            "description": "Deploy a stateful Siddhi Application in distributed mode on Kubernetes with preconfigured NATS."
+          }
+        ]
       }
     ]
   }
