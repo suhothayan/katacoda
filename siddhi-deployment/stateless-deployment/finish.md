@@ -1,0 +1,1 @@
+**Congratulations on successfully completing the stateless Siddhi App deployment scenario!**
