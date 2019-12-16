@@ -1,6 +1,7 @@
 {
   "title": "Siddhi Deployment Tutorials",
   "description": "This course contains series of tutorials about deploying Siddhi on Kubernetes",
+  "icon": "fa-siddhi",
   "courses": [
     {
       "course_id": "stateless-deployment",
